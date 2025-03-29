@@ -1,1 +1,8 @@
 # Electricity-Billing-System
+The Electricity Billing System project aims to automate the traditional electricity billing process, improving efficiency and accuracy while reducing human effort and resource consumption. Key features include automated bill calculation, online payment capabilities, and enhanced data security. This system addresses the challenges of the manual billing process by providing a user-friendly interface for managing electricity bills, ensuring a seamless and error-free experience for both customers and administrators.
+Level of Testing-  
+Unit Testing:
+Focuses on individual software modules.Verifies control flow within each module.Detects errors within module boundaries.Integration Testing:Combines class-tested modules into subsystems.Ensures proper integration of modules.System Testing:Tests the entire application against requirements.Thoroughly examines each module and component.Verifies correctness of output for various input sequences.
+Testing Process- Testing is essential in software development to ensure that the product adheres to the specified standards.Test cases are built to verify the product against these standards.Test cases can be based on system requirements.
+Testing Objectives- Testing aims to find errors by executing the program.Effective test cases have a high probability of discovering undiscovered errors.
+It is a software which helps the user to work with the billing cycles, paying bills, managing different DETAILS under which are working etc. This software reduces the amount of manual data entry and gives greater efficiency. The User Interface of it is very friendly and can be easily used by anyone. It also decreases the amount of time taken to write details and other modules.
